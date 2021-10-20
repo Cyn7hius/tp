@@ -3,15 +3,15 @@ layout: page
 title: User Guide
 ---
 
-* Table of Contents
-  {:toc}
---------------------------------------------------------------------------------------------------------------------
-
-## Introduction
 Financial Advisor Smart Tracker (FAST) is a free open-source desktop app for Financial Advisors to manage their contacts. 
 More importantly, FAST is **optimized for those who prefer to work with a Command Line Interface** (CLI) while still having the benefits of a Graphical User Interface (GUI).
 For Financial Advisors that can type fast, FAST can get your contact management tasks done faster than traditional GUI apps. 
 Interested? Jump to the Section 2, “Quick Start” to get started. Enjoy!
+
+* Table of Contents
+{:toc}
+
+--------------------------------------------------------------------------------------------------------------------
 
 ## Quick start
 
